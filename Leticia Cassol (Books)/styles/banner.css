@@ -25,11 +25,11 @@
 }
 
 .banner__pesquisa::placeholder {
-    font-family: var(--fonte-principal)
+    font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
-    text-aling: center;
+    text-align: center;
     color: var(--branco);
-    background:
+    background: url("../img/Pesquisa.svg") no-repeat;
     background-position:1em;
 }
